@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tu_3.2\\ps\\PS_44_Hristo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\others\\usersrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\others\\usersrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\View\\UserView.cs",
+              "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\View\\UserView.cs",
+              "RelativeToolTip": "Welcome\\View\\UserView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:27:16.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:23:12.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Model\\User.cs",
+              "RelativeToolTip": "Welcome\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:19:10.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersRolesEnum.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Others\\UsersRolesEnum.cs",
+              "RelativeDocumentMoniker": "Welcome\\Others\\UsersRolesEnum.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Others\\UsersRolesEnum.cs",
+              "RelativeToolTip": "Welcome\\Others\\UsersRolesEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:16:39.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Program.cs",
+              "RelativeDocumentMoniker": "Welcome\\Program.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Program.cs",
+              "RelativeToolTip": "Welcome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:10:16.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
