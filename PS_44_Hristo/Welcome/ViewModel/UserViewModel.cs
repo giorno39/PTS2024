@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Welcome.Model;
-using Welcome.Others;
+using Welcome.Enum;
 
 namespace Welcome.ViewModel
 {
-    internal class UserViewModel
+    public class UserViewModel
     {
         private User _mUser;
 

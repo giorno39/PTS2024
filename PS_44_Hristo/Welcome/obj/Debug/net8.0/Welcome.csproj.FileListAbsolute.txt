@@ -12,3 +12,4 @@ D:\tu_3.2\ps\PS_44_Hristo\Welcome\obj\Debug\net8.0\refint\Welcome.dll
 D:\tu_3.2\ps\PS_44_Hristo\Welcome\obj\Debug\net8.0\Welcome.pdb
 D:\tu_3.2\ps\PS_44_Hristo\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
 D:\tu_3.2\ps\PS_44_Hristo\Welcome\obj\Debug\net8.0\ref\Welcome.dll
+D:\tu_3.2\ps\PS_44_Hristo\Welcome\obj\Debug\net8.0\Welcome.sourcelink.json

@@ -1,4 +1,6 @@
-﻿using Welcome.Model;
+﻿using System;
+using Welcome.Model;
+using Welcome.Enum;
 using Welcome.View;
 using Welcome.ViewModel;
 
@@ -10,13 +12,15 @@ namespace Welcome
         {
             User user = new User();
             user.Names = "Giorno";
-            user.Role = Others.UsersRolesEnum.ADMIN;
+            user.Role = Enum.UsersRolesEnum.ADMIN;
             user.Password = "dummy.txt";
 
             UserViewModel userViewModel = new UserViewModel(user);
             UserView viewWindow = new UserView(userViewModel);
 
             viewWindow.Display();
+
+
 
         }
     }

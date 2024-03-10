@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Welcome.Others
+namespace Welcome.Enum
 {
-    internal enum UsersRolesEnum
+    public enum UsersRolesEnum
     {
         ANONYMOUS,
         ADMIN,
