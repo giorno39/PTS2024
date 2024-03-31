@@ -3,6 +3,8 @@ using Welcome.Model;
 using Welcome.Enum;
 using Welcome.ViewModel;
 using Welcome.View;
+using WelcomeExtended.Data;
+using WelcomeExtended.Helpers;
 
 namespace WelcomeExtended
 {
@@ -12,29 +14,60 @@ namespace WelcomeExtended
         {
             try
             {
-                var user = new User();
+                UserData userData = new UserData();
+                User studentUser = new User()
                 {
-                    user.Names = "John Smith";
-                    user.Password = "password";
-                    user.Role = UsersRolesEnum.STUDENT;
+                    Names = "student",
+                    Password = "123",
+                    Role = UsersRolesEnum.STUDENT
                 };
 
-                var viewModel = new UserViewModel(user);
-                var view = new UserView(viewModel);
+                userData.AddUser(studentUser);
 
-                view.Display();
+                User secondStudent = new User()
+                {
+                    Names = "student2",
+                    Password = "123",
+                    Role = UsersRolesEnum.STUDENT
+                };
 
-                view.DisplayError();
+                userData.AddUser(secondStudent);
+
+                User teacher = new User()
+                {
+                    Names = "Teacher",
+                    Password = "1234",
+                    Role = UsersRolesEnum.PROFESSOR,
+                };
+
+                userData.AddUser(teacher);
+
+                User admin = new User()
+                {
+                    Names = "Admin",
+                    Password = "12345",
+                    Role = UsersRolesEnum.ADMIN,
+                };
+
+                userData.AddUser(admin);
+
+                Console.WriteLine("Name:");
+                string name = Console.ReadLine();
+                Console.WriteLine("Password:");
+                string password = Console.ReadLine();
+
+                userData.ValidateCredentials(name, password);
+                User selectedUser = userData.GetUser(name, password);
+
+                Console.WriteLine(selectedUser.ToString(true));
             }
+
             catch (Exception ex)
             {
-                var log = new ActionOnError(Delegates.Log);
-                log(ex.Message);
-            }
-            finally
-            {
-                Console.WriteLine("Executed in any case");
+                Console.WriteLine(ex.Message);
+
             }
         }
+        }
     }
-}
+

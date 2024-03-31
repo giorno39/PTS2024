@@ -7,44 +7,20 @@
       "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\others\\usersrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\others\\usersrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\actiononerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\helpers\\userhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\userhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,58 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ActionOnError.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Others\\ActionOnError.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\ActionOnError.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Others\\ActionOnError.cs",
-              "RelativeToolTip": "WelcomeExtended\\Others\\ActionOnError.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA4AAAA",
+              "DocumentIndex": 2,
+              "Title": "LoggerHelper.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T10:10:54.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delegates.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Others\\Delegates.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\Delegates.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Others\\Delegates.cs",
-              "RelativeToolTip": "WelcomeExtended\\Others\\Delegates.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T10:04:08.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoggerProvider.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
-              "RelativeToolTip": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T09:52:20.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HashLogger.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Loggers\\HashLogger.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\HashLogger.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Loggers\\HashLogger.cs",
-              "RelativeToolTip": "WelcomeExtended\\Loggers\\HashLogger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T09:36:18.753Z",
+              "WhenOpened": "2024-03-31T14:41:29.075Z",
               "EditorCaption": ""
             },
             {
@@ -116,87 +53,48 @@
               "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
               "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Program.cs",
               "RelativeToolTip": "WelcomeExtended\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwCoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T09:30:15.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserView.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\View\\UserView.cs",
-              "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\View\\UserView.cs",
-              "RelativeToolTip": "Welcome\\View\\UserView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:27:16.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\ViewModel\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\ViewModel\\UserViewModel.cs",
-              "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:23:12.187Z",
+              "WhenOpened": "2024-03-31T14:32:40.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Model\\User.cs",
-              "RelativeToolTip": "Welcome\\Model\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:19:10.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Program.cs",
               "RelativeDocumentMoniker": "Welcome\\Program.cs",
               "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Program.cs",
               "RelativeToolTip": "Welcome\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:10:16.788Z",
+              "WhenOpened": "2024-03-31T14:27:19.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserHelpers.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\UserHelpers.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\UserHelpers.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\UserHelpers.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\UserHelpers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:20:00.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsersRolesEnum.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Others\\UsersRolesEnum.cs",
-              "RelativeDocumentMoniker": "Welcome\\Others\\UsersRolesEnum.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Others\\UsersRolesEnum.cs",
-              "RelativeToolTip": "Welcome\\Others\\UsersRolesEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAPAAAA",
+              "Title": "UserData.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Data\\UserData.cs",
+              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:16:39.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoggerHelper.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T09:55:00.92Z",
+              "WhenOpened": "2024-03-31T13:35:46.406Z",
               "EditorCaption": ""
             }
           ]

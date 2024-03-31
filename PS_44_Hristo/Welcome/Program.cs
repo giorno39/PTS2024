@@ -4,10 +4,12 @@ using Welcome.Enum;
 using Welcome.View;
 using Welcome.ViewModel;
 
+
 namespace Welcome
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
             User user = new User();
@@ -15,10 +17,13 @@ namespace Welcome
             user.Role = Enum.UsersRolesEnum.ADMIN;
             user.Password = "dummy.txt";
 
-            UserViewModel userViewModel = new UserViewModel(user);
-            UserView viewWindow = new UserView(userViewModel);
+           UserViewModel userViewModel = new UserViewModel(user);
+           UserView viewWindow = new UserView(userViewModel);
 
             viewWindow.Display();
+
+
+
 
 
 
