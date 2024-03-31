@@ -12,7 +12,7 @@ namespace Welcome.Model
         public string Names { get; set; }
         public string Password { get; set; }
 
-        public int Id { get; set; }
+        public virtual int Id { get; set; }
         public UsersRolesEnum Role { get; set; }
 
         public DateTime Expires { get; set; }

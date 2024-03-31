@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\tu_3.2\\ps\\PS_44_Hristo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8B6CAC2-B219-48BE-8E44-76AB18E9DBBE}|DataLayer\\DataLayer.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6CAC2-B219-48BE-8E44-76AB18E9DBBE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6CAC2-B219-48BE-8E44-76AB18E9DBBE}|DataLayer\\DataLayer.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6CAC2-B219-48BE-8E44-76AB18E9DBBE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6CAC2-B219-48BE-8E44-76AB18E9DBBE}|DataLayer\\DataLayer.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6CAC2-B219-48BE-8E44-76AB18E9DBBE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\model\\databaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\helpers\\userhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\userhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C431CAC-B64F-4FAC-B636-5F2BF172F671}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|d:\\tu_3.2\\ps\\ps_44_hristo\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AC19998-A4D6-4EAC-BF7D-0B33EC838B94}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoggerHelper.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:41:29.075Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Program.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Program.cs",
-              "RelativeToolTip": "WelcomeExtended\\Program.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAcwCoAAAAqAAAA",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\DataLayer\\Program.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Program.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\DataLayer\\Program.cs",
+              "RelativeToolTip": "DataLayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:32:40.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Program.cs",
-              "RelativeDocumentMoniker": "Welcome\\Program.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\Welcome\\Program.cs",
-              "RelativeToolTip": "Welcome\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:27:19.516Z",
+              "WhenOpened": "2024-03-31T16:59:00.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserHelpers.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\UserHelpers.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\UserHelpers.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Helpers\\UserHelpers.cs",
-              "RelativeToolTip": "WelcomeExtended\\Helpers\\UserHelpers.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAwAAABAAAAA",
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Database\\DatabaseContext.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\DataLayer\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "DataLayer\\Database\\DatabaseContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T14:20:00.174Z",
+              "WhenOpened": "2024-03-31T16:11:48.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Data\\UserData.cs",
-              "RelativeDocumentMoniker": "WelcomeExtended\\Data\\UserData.cs",
-              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Data\\UserData.cs",
-              "RelativeToolTip": "WelcomeExtended\\Data\\UserData.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\WelcomeExtended\\Program.cs",
+              "RelativeToolTip": "WelcomeExtended\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T13:35:46.406Z",
+              "WhenOpened": "2024-03-31T15:38:28.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseUser.cs",
+              "DocumentMoniker": "D:\\tu_3.2\\ps\\PS_44_Hristo\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Model\\DatabaseUser.cs",
+              "ToolTip": "D:\\tu_3.2\\ps\\PS_44_Hristo\\DataLayer\\Model\\DatabaseUser.cs",
+              "RelativeToolTip": "DataLayer\\Model\\DatabaseUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:36:22.763Z",
               "EditorCaption": ""
             }
           ]
